@@ -1,0 +1,35 @@
+img{
+	margin-lef: auto;
+	margin-right: auto;
+	display: block;
+}
+
+
+h1 {
+	font-family: Roboto;
+	font-size: 22px;
+	color: brown; 
+	}
+
+	ol {
+		border: lightblue 1px solid;
+		margin-top: 10px;
+		margin-right: 5px;
+		margin-bottom: 5px;
+		margin-left: 10px;
+		padding-top: 10px;
+	}
+
+	li {
+		color: indianred;
+		font-size: 14px;
+		padding: 5px;
+
+	}
+div {
+	border: seagreen 1px dotted;
+}
+
+#main-text {
+	border: limegreen 1px;
+}
